@@ -1,0 +1,129 @@
+body {
+   font-family: sans-serif;
+}
+body {
+  font-family: sans-serif;
+background-image: url(https://moewalls.com/wp-content/uploads/2023/07/the-ruins-undertale-pixel-thumb.jpg);
+}
+.logo {
+  height: 70px;
+  background-color: rgb(0, 0, 0);
+  margin: 10px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+
+header{
+background-image: url(https://www.themebeta.com/media/cache/400x225/files/chrome/images/201609/27/b4de4403cb24de34dba0c2156f1b01df.png);
+display: flex;
+margin: -10px;
+
+
+}
+header a{
+  background-color: black;
+  margin: 40px 0px 0px 180px;
+  color: white;
+  text-decoration: none;
+  border: 2px solid white;
+  padding: 5px 35px 5px 35px;
+  text-align: center;
+  float: left;
+}
+h1 {
+  text-align: center;
+  font-size: 38px;
+  color: rgb(255, 255, 255);
+  border: 3px dotted rgb(255, 255, 255);
+  padding: 5px;
+  margin: 10px;
+  border-radius: 20px;
+}
+h1 img {
+  height: 80px;
+  width: 80px;
+}
+main p {
+  text-align: center;
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(255, 255, 255);
+  padding: 5px;
+  margin-bottom: 50px;
+  justify-content: center;
+  font-size: 29px;
+}
+h2 {
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: px solid rgb(99, 46, 46);
+}
+.foto {
+  height: 250px;
+  margin-left:250px;
+  border-radius: 20px;
+  border: 10px solid blueviolet;
+  padding: 5px;
+}
+.promo{
+  height: 450px;
+  margin-left: 50px;
+}
+footer p {
+text-align: center;
+color: white;
+}
+footer{
+  background-color: rgb(97, 46, 145);
+}
+.flowey{
+  width: 100px;
+}
+.toriel{
+  width: 200px;
+}
+.papyrus{
+  width: 200px;
+}
+.undyne{
+  width: 200px;
+}
+.mettaton{
+  width:  200px;
+}
+.muffet{
+  width: 200px;
+}
+.mettatonex{
+  width: 200px;
+}
+.asgorebeforefight{
+  width: 300px;
+}
+.ASGORE{
+  width: 350px;
+}
+.undynetheundying{
+  width: 300px;
+}
+.mettatonNEO{
+  width: 600px;
+}
+.OMEGAFLOWEY{
+  width: 600px;
+}
+.FINALE{
+  width: 600px;
+}
+.ASRIELDREEMURR{
+  width: 200px;
+}
+.SAVETHEWORLD{
+  width: 300px;
+}
+.sans{
+  width: 200px;
+}
